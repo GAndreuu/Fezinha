@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+auth_token.txt
+ponto.txt
+archive/
+files/
+analyze_output.txt
+decode_output.txt
+exhaustive_output.txt
+fetch_d3.txt
+mapping_output.txt
